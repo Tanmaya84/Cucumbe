@@ -7,5 +7,5 @@ Scenario Outline: Login
 Examples:
 |Username|Password|
 |nanda.tanmaya@gmail.com|mama1984|
-|barkhamama@gmail.com|barsarani@19831|
+
 
